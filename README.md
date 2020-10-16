@@ -1,16 +1,16 @@
-# flutter_app
+# BMI Calculator
 
-A new Flutter application.
+A Flutter application developed in Android Studio.
 
-## Getting Started
+This app calculates bmi.
 
-This project is a starting point for a Flutter application.
+<img src="images/bmi.1.jpg" width = "400">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="images/bmi.2.jpg" width = "400">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="images/bmi.3.jpg" width = "400">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="images/bmi.4.jpg" width = "400">
+
+<img src="images/bmi.5.jpg" width = "400">
+
